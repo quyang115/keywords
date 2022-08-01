@@ -14,6 +14,6 @@
 
 ## 키워드
 
-- [Visual Studio](https://github.com/quyang115/keywords/edit/main/visualstudio.md)
+- [Visual Studio](https://github.com/quyang115/keywords/blob/main/visualstudio.md)
 
 문서를 작성한 키워드는 체크 표시합니다.
