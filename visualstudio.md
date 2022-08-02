@@ -1,3 +1,12 @@
 # 비주얼 스튜디오 (Visual Studio)
 
-[공식 홈페이지](https://visualstudio.microsoft.com/ko/)
+| Visual Studio |
+|:-------------:|
+| ![image](https://user-images.githubusercontent.com/101777355/182400962-fb7944a2-a4fb-43c3-9726-8ac6dc660a1f.png) |
+| 개발사: Microsoft |
+| 최신 버전: 2022 |
+| [공식 홈페이지](https://visualstudio.microsoft.com/ko/) |
+
+1997년부터 현재까지 마이크로소프트가 배포 및 판매 중인 통합 개발 환경이자 통합 패키지.
+
+이거 하나만 있으면 윈도우에서 돌아가는 데스크톱 애플리케이션과 웹 애플리케이션을 모두 개발할 수 있다. 그러나 그만큼 용량이 커뮤니티 기준 80GB, 엔터프라이즈 기준 150GB 정도로 매우 크고 또 설치 과정도 상당히 길다. 다만 그 많은 것들을 반드시 다 설치해야 하는 경우는 없고, 관련 지식이 없다면 최초에 정해 주는 대로만 깔면 충분히 쓸 수 있다.
