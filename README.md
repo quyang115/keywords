@@ -16,7 +16,7 @@
 
 - [x] [Visual Studio](https://github.com/quyang115/keywords/blob/main/visualstudio.md)
 - [ ] [C#](https://github.com/quyang115/keywords/blob/main/csharp.md)
-- [ ] WPF
+- [ ] [WPF](#wpf)
 - [ ] [컴퓨터](#computer)
 - [ ] [Parallels](#parallels)
 
