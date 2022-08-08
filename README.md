@@ -17,6 +17,7 @@
 - [x] [Visual Studio](https://github.com/quyang115/keywords/blob/main/visualstudio.md)
 - [ ] [C#](https://github.com/quyang115/keywords/blob/main/csharp.md)
 - [ ] WPF
-- [ ] 컴퓨터
+- [ ] [컴퓨터](#computer)
+- [ ] [Parallels](#parallels)
 
 문서를 작성한 키워드는 체크 표시합니다.
