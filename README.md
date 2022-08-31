@@ -38,6 +38,7 @@
 - [ ] [WPF Path](#)
 - [ ] [WPF ScrollViewer](#)
 - [ ] [C# Class]
+- [ ] [C# Method]
 
 
 
