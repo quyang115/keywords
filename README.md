@@ -44,6 +44,7 @@
 - [ ] [C# String]
 - [ ] [C# Int]
 - [ ] [C# Boolean]
+- [ ] C# DataTemplate
 - C# Double
 
 문서를 작성한 키워드는 체크 표시합니다.
