@@ -44,7 +44,7 @@
 - [ ] [C# String]
 - [ ] [C# Int]
 - [ ] [C# Boolean]
-- [ ] C# DataTemplate
+- [ ] [C# DataTemplate](#)
 - [ ] [C# Double](#)
 - [ ] [C# Prism]
 
