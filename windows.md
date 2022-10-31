@@ -5,7 +5,7 @@
 | **개발사:** 마이크로소프트 | 
 | **최신 버전:** 윈도우 11 (2021년5월19일 출시) | 
 | Windows 는 Microsoft 에서 개발 및 판매하는 여러 독점 그래픽 운영 체제 제품군의 그룹입니다 . |
-| **Window 역사:** 
-
+| **Window 역사:** [
+](https://web.archive.org/web/20160527045809/https://windows.microsoft.com/ko-kr/windows/history#T1=era0)
 
 
